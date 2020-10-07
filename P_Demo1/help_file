@@ -1,1 +1,218 @@
 git: sanjaykumar.dbdev@gmal.com: 8.z-901.3
+
+
+
+Microsoft Windows [Version 10.0.17134.1726]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git init
+Initialized empty Git repository in C:/Users/sanjay.kumar12/PycharmProjects/Projects/Django_Demo1/.git/
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>dir /ah
+ Volume in drive C is OSDisk
+ Volume Serial Number is 8CDA-479C
+
+ Directory of C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1
+
+10/07/2020  11:46 PM    <DIR>          .git
+10/07/2020  11:33 PM               162 ~$oject_P_Demo1_Guide.docx
+               1 File(s)            162 bytes
+               1 Dir(s)  111,815,589,888 bytes free
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .idea/
+        P_Demo1/
+        project_P_Demo1_Guide.docx
+        ~$oject_P_Demo1_Guide.docx
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git commmit -m .
+git: 'commmit' is not a git command. See 'git --help'.
+
+The most similar command is
+        commit
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git commit -m .
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .idea/
+        P_Demo1/
+        project_P_Demo1_Guide.docx
+        ~$oject_P_Demo1_Guide.docx
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git add .
+warning: LF will be replaced by CRLF in .idea/inspectionProfiles/Project_Default.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .idea/inspectionProfiles/profiles_settings.xml.
+The file will have its original line endings in your working directory
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#       new file:   .idea/.gitignore
+#       new file:   .idea/Django_Demo1.iml
+#       new file:   .idea/inspectionProfiles/Project_Default.xml
+#       new file:   .idea/inspectionProfiles/profiles_settings.xml
+#       new file:   .idea/misc.xml
+#       new file:   .idea/modules.xml
+#       new file:   P_Demo1/P_Demo1/__init__.py
+#       new file:   P_Demo1/P_Demo1/asgi.py
+#       new file:   P_Demo1/P_Demo1/settings.py
+#       new file:   P_Demo1/P_Demo1/urls.py
+#       new file:   P_Demo1/P_Demo1/wsgi.py
+#       new file:   P_Demo1/help_file
+#       new file:   P_Demo1/manage.py
+#       new file:   project_P_Demo1_Guide.docx
+#       new file:   ~$oject_P_Demo1_Guide.docx
+#
+~                                                                                                                       ~                                                                                                                       ~                                                                                                                       C:/Users/sanjay.kumar12/PycharmProjects/Projects/Django_Demo1/.git/COMMIT_EDITMSG [unix] (23:48 07/10/2020)    1,0-1 All
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aborting commit due to empty commit message.
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   .idea/.gitignore
+        new file:   .idea/Django_Demo1.iml
+        new file:   .idea/inspectionProfiles/Project_Default.xml
+        new file:   .idea/inspectionProfiles/profiles_settings.xml
+        new file:   .idea/misc.xml
+        new file:   .idea/modules.xml
+        new file:   P_Demo1/P_Demo1/__init__.py
+        new file:   P_Demo1/P_Demo1/asgi.py
+        new file:   P_Demo1/P_Demo1/settings.py
+        new file:   P_Demo1/P_Demo1/urls.py
+        new file:   P_Demo1/P_Demo1/wsgi.py
+        new file:   P_Demo1/help_file
+        new file:   P_Demo1/manage.py
+        new file:   project_P_Demo1_Guide.docx
+        new file:   ~$oject_P_Demo1_Guide.docx
+
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git commit -m .
+[master (root-commit) 1143a98] .
+ 15 files changed, 249 insertions(+)
+ create mode 100644 .idea/.gitignore
+ create mode 100644 .idea/Django_Demo1.iml
+ create mode 100644 .idea/inspectionProfiles/Project_Default.xml
+ create mode 100644 .idea/inspectionProfiles/profiles_settings.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 P_Demo1/P_Demo1/__init__.py
+ create mode 100644 P_Demo1/P_Demo1/asgi.py
+ create mode 100644 P_Demo1/P_Demo1/settings.py
+ create mode 100644 P_Demo1/P_Demo1/urls.py
+ create mode 100644 P_Demo1/P_Demo1/wsgi.py
+ create mode 100644 P_Demo1/help_file
+ create mode 100644 P_Demo1/manage.py
+ create mode 100644 project_P_Demo1_Guide.docx
+ create mode 100644 ~$oject_P_Demo1_Guide.docx
+
+**************************************************************************************************
+************************************* 2nd commit *************************************************
+**************************************************************************************************
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   project_P_Demo1_Guide.docx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git add .
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   project_P_Demo1_Guide.docx
+
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git commit -m 'first update'
+error: pathspec 'update'' did not match any file(s) known to git
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git commit -m "first update"
+[master c742380] first update
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 3.83 KiB | 391.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/sanjaykumardbdev/P_Demo1.git
+   1143a98..c742380  master -> master
+
+C:\Users\sanjay.kumar12\PycharmProjects\Projects\Django_Demo1>
+
+
+**************************************************************************************************
+************************************* 3rd commit *************************************************
+**************************************************************************************************
